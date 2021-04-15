@@ -1,18 +1,3 @@
-# NOTES: 
-# The index of a character in the message is
-# the exponent by which the value of the character
-# is raised.
-# Each character is increased by times 2 to the power
-# of its count by up to the current index.
-# The initial value is determined by the character's place
-# in the alphabet (or maybe in its group).
-# Uppercase letters before lowercase letters cause lower case
-# letters to start a step higher.
-# Special characters: "!@#$%^&*()_+-" are unchanged by the encoder.
-
-# Step 1: Experiment with the encoding!
-# -- needs one more character
-# tried: ~`{}"'<>/[]
 import string
 import math
 

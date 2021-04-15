@@ -7,3 +7,11 @@ Katas range in difficult starting at 8kyu and ending at 1kyu. There are levels b
 I credit Codewars for a good deal of my programming skill and Pythonic knowledge. I am currently ranked at 5kyu, but I expect that surpass that quite soon.
 
 I recommend Codewars to anyone that just wants to write code without the baggage of a full blown project.
+
+## TODO
+
+- Complete decode enemy messages.
+- Complete Roman numerals helper.
+- Complete simplifying multilinear polynomials.
+- Complete diophantine equation.
+- Fix 1rm calculator README.

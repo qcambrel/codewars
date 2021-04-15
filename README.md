@@ -11,6 +11,7 @@ I recommend Codewars to anyone that just wants to write code without the baggage
 ## TODO
 
 - Complete decode enemy messages.
+- Complete Codewars ranking.
 - Complete Roman numerals helper.
 - Complete simplifying multilinear polynomials.
 - Complete diophantine equation.
